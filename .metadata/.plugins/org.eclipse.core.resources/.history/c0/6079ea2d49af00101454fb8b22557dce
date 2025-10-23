@@ -1,0 +1,19 @@
+package com.myapp.basics;
+
+public class JavaStrings {
+
+	public static void main(String[] args) {
+		String str="hello..!";
+		
+		System.out.println(str.length());
+		
+		// Lower Case:
+		System.out.println(str.toLowerCase());
+		
+		// Upper Case:
+		
+		System.out.println(str.toUpperCase());
+
+	}
+
+}
